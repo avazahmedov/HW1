@@ -43,3 +43,17 @@ if (number3>Maximum)
 }
     Console.WriteLine("Максимальное число " + Maximum);
     */
+
+/*
+Console.WriteLine("Введите число ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+if (number%2 == 0)
+{
+    Console.WriteLine(number + " это четное число ");
+}
+else 
+{
+    Console.WriteLine(number + " это нечетное число ");
+}
+*/
